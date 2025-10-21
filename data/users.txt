@@ -1,0 +1,11 @@
+alex,pass123
+bella,qwerty
+carlos,abc123
+diana,letmein
+ethan,secure1
+fiona,hello2025
+gabriel,xyz987
+harper,password
+isaac,moonlight
+jade,summer21
+brando,4567

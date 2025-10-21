@@ -1,0 +1,12 @@
+alex,2025-10-20,Food,320,Lunch at cafe
+bella,2025-10-21,Transport,120,Taxi ride
+carlos,2025-10-19,Groceries,450,Weekly groceries
+diana,2025-10-18,Entertainment,250,Movie tickets
+ethan,2025-10-20,Food,180,Snacks and drinks
+fiona,2025-10-21,Utilities,130,Electricity bill
+gabriel,2025-10-19,Transport,90,Bus fare
+harper,2025-10-18,Food,400,Dinner with friends
+isaac,2025-10-20,Health,220,Pharmacy purchase
+jade,2025-10-21,Shopping,350,Clothes
+diana,2025-09-22,Clothing,350.0,Bday
+diana,2025-09-23,Transportation,750.0,Taxi
