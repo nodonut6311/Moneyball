@@ -7,7 +7,7 @@ Allows users to **register, login, add expenses, view expenses, and see reports*
 
 ## 📁 Project Structure
 ```bash
-ExpenseTracker/
+Moneyball/
 │
 ├── data/
 │   ├── users.txt        # Stores username,password
