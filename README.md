@@ -32,12 +32,19 @@ Moneyball/
 ##  Features (So far (v1)):
 
 User registration and secure authentication (Login, Authenticatable)
+
 Add, view, and manage expenses (Expense, ExpenseManager, ExpenseOperations)
+
 Persistent storage of user data using text files (Savable)
+
 Category-wise, monthly, and total expense summaries
+
 Budget creation and budget limit validation per category (Budget)
+
 Visual expense summaries displayed in the terminal (VisualSummary)
+
 Colorized terminal output for improved readability (ConsoleColors)
+
 Utility-based input handling and formatting (Utils)
 
 ---
