@@ -8,5 +8,20 @@ gabriel,2025-10-19,Transport,90,Bus fare
 harper,2025-10-18,Food,400,Dinner with friends
 isaac,2025-10-20,Health,220,Pharmacy purchase
 jade,2025-10-21,Shopping,350,Clothes
-diana,2025-09-22,Clothing,350.0,Bday
-diana,2025-09-23,Transportation,750.0,Taxi
+Ramm,2025-10--23,Food,1500.0,Lunch at canteen
+Ravi,2025-10-23,Food,100.0,Lunch at college canteen
+Ravi,2025-10-24,Groceries,350.0,Vegetables and Fruits
+Ramm,2025-11-10,Shopping,3500.0,Diwali purchase
+Ravi,2025-12-12,Groceries,1500.0,household requirements
+Ramm,2025-10-25,Food,3000.0,Family dinner at TAJ
+Ramm,2025-10-130,Food,4000.0,dinner
+Ramm,2025-10-29,Food,2500.0,dinner
+Ravi,2025-05-10,Shopping,2500.0,Birthday Shopping
+Praba,2007-06-22,Food,1.0,Candy
+Praba,2025-10-23,Shopping,3000000.0,Cute plushie
+Praba,,Food,100.0,Buying Ramm
+Praba,2025-10-10,Food,100.0,Candy
+Praba,2025-10-10,Food,100.0,Candy
+Ramm,2025-12-10,Food,2500.0,Lunch at cafe
+Ramm,2025-09-10,Food,990.0,Dinner at hotel
+Raghunandan Shaji,2025-11-11,Shopping,8000.0,Diwali shopping
