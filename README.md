@@ -10,27 +10,35 @@ Allows users to **register, login, add expenses, view expenses, and see reports*
 Moneyball/
 │
 ├── data/
-│   ├── users.txt        # Stores username,password
-│   └── expenses.txt     # Stores expense records
+│   ├── users.txt
+│   ├── expenses.txt       
+│   └── budgets.txt       
 │
 └── src/
+    ├── MainApp.java
     ├── Login.java
     ├── Expense.java
     ├── ExpenseManager.java
-    ├── MainApp.java
+    ├── ExpenseOperations.java
+    ├── Budget.java
+    ├── VisualSummary.java
     ├── Utils.java
-    └── ConsoleColors.java
-
+    ├── ConsoleColors.java
+    ├── Authenticatable.java
+    └── Savable.java
 ```
 ---
 
 ##  Features (So far (v1)):
 
-- User registration and login  
-- Add, view, and track expenses  
-- Total spending report  
-- Category-wise and monthly summary  
-- Colorized terminal output for better readability  
+User registration and secure authentication (Login, Authenticatable)
+Add, view, and manage expenses (Expense, ExpenseManager, ExpenseOperations)
+Persistent storage of user data using text files (Savable)
+Category-wise, monthly, and total expense summaries
+Budget creation and budget limit validation per category (Budget)
+Visual expense summaries displayed in the terminal (VisualSummary)
+Colorized terminal output for improved readability (ConsoleColors)
+Utility-based input handling and formatting (Utils)
 
 ---
 
@@ -76,6 +84,27 @@ gabriel,2025-10-19,Transport,90,Bus fare
 harper,2025-10-18,Food,400,Dinner with friends
 isaac,2025-10-20,Health,220,Pharmacy purchase
 jade,2025-10-21,Shopping,350,Clothes
+```
+3. budgets.txt(username,category,amount) :
+```bash
+alex,Food,1000
+bella,Transport,800
+carlos,Groceries,1200
+diana,Entertainment,500
+ethan,Food,500
+fiona,Utilities,400
+gabriel,Transport,300
+harper,Food,600
+isaac,Health,500
+jade,Shopping,1000
+Ramm,Food,2000
+Ramm,Shopping,4000
+Ravi,Food,500
+Ravi,Groceries,1000
+Ravi,ALL,2000
+Praba,Food,1.0
+Ramm,ALL,5000.0
+Ramm,Foos,7000.0
 ```
 ---
 
